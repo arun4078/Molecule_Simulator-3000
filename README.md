@@ -97,6 +97,7 @@ For Hardware:
 ### Project Demo
 # Video
 [![Watch the demo](assets/icon.png)](https://youtube.com/shorts/VMhA5ru5U5w?si=WnKLXC-Q6DgT2wNi)
+Click on the image for video
 The full working of the app
 
 # Additional Demos
