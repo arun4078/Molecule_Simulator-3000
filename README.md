@@ -68,7 +68,7 @@ Loading screen with custom animation
 <img src="https://github.com/arun4078/Molecule_Simulator-3000/blob/main/assets/forth.jpg" width="400" />
 Shows the result:
 
-<img src="https://github.com/arun4078/Molecule_Simulator-3000/blob/main/assets/five.jpg" width="400" />
+<img src="https://github.com/arun4078/Molecule_Simulator-3000/blob/main/assets/fifth.jpg" width="400" />
 If the resulting distance is above 1 lightyear, the app uses the length contraction equation.
 
 # Diagrams
